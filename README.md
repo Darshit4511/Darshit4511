@@ -74,6 +74,15 @@ Here are some of the technical skills I possess:
 
 ---
 
+
+## :computer:  Resume Builder Project
+
+I have developed a web application for my college that allows students to enter their details and generate a pre-defined, fixed-format resume. The application simplifies the process of creating a professional resume by providing a user-friendly interface and automating the formatting tasks. I enjoyed building it to assist my fellow students with their resume preparation.
+
+You can access the project [here](https://resume-builder-v1-ldce.netlify.app/).
+
+---
+
 ## :clapper: Extra-Curricular Activities
 
 - Serving as the Training and Placement cell Coordinator at L.D. College of Engineering, responsible for handling technical aspects.
