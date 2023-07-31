@@ -100,5 +100,10 @@ You can access the project [here](https://resume-builder-v1-ldce.netlify.app/).
 
 ---
 
+## :chart_with_upwards_trend: Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshit4511)](https://github.com/Darshit4511?tab=repositories)
+
+---
 
 Thank you for visiting my GitHub repository. Feel free to explore my projects and don't hesitate to connect with me on any of the platforms mentioned above. Happy coding! :rocket:
