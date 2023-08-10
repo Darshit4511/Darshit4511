@@ -34,15 +34,7 @@ Feel free to connect with me on these platforms:
 
 I work with a variety of languages and tools. Some of them include:
 
-<img align="left" alt="PHP" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Wordpress" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="MySQL" width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
-<img align="left" alt="MongoDB" width="60px" src="https://img.icons8.com/color/512/mongodb.png" />
+<img src="https://skillicons.dev/icons?i=php,wordpress,react,nodejs,express,mongodb,javascript,bootstrap,html,css,mysql,figma,git,github,xampp,java,py" />
 
 <br />
 <br />
